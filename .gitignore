@@ -1,0 +1,12 @@
+# Secrets – niemals committen
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
